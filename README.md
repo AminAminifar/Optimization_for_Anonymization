@@ -16,5 +16,4 @@ Video: https://www.youtube.com/watch?v=b7EljkLgbsA&list=PLYYUdaOofPGimow72H1Jwgc
   year={2021},
   pages={2148-2154},
   doi={10.1109/EMBC46164.2021.9629918}}
-
 ```
